@@ -55,17 +55,4 @@ service would be unable to access.
 
 # Examples
 
-- Stats overview
-
-  ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-
-- Languages overview
-
   ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
-# Related Projects
-
-- Inspired by a desire to improve upon
-  [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
-  match the GitHub UI
